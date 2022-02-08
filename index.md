@@ -11,4 +11,4 @@ It is a simple Web application with Angular + Spring Boot.
 
 ### Source Code
 You can find the source code of the Demo Application at:
-https://github.com/chengfengzhai/sandbox
+<a href="https://github.com/chengfengzhai/sandbox">https://github.com/chengfengzhai/sandbox</a>
