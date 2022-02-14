@@ -10,7 +10,7 @@ I have made a Demo Web Application using Angular + Spring Boot.
 It is a Web application with Angular + Spring Boot. The user is authorized with JWT(Json Web Token). 
 The front end angular application is hosted on github pages, the back end Rest Server is hosted on Oracle Cloud VM free tier, the free SSL certificate for the Rest Server was created with letsEncrypt (https://letsencrypt.org/)
 </br>
-There are 2 links ( login and register, of course we can add more content available to public) in the public home page. After a user signs up with simple username + password, the application will display other 2 links: logout and products list. The user can click the link of poducts list and get a view of list of products, these products are retrieved via Restful web service from a backend server, which was deployed in a Oracle Cloud VM. The user can click the logout link to logout and return to original public home pages with links of signup and login.
+There are 2 links ( login and register, of course we can add more content available to public) in the public home page. After a user signs up with simple username + password and logs in with the cretentials entered in signup page, the application will display other 2 links: logout and products list. The user can click the link of poducts list and get a view of list of products, these products are retrieved via Restful web service from a backend server, which was deployed in a Oracle Cloud VM. The user can click the logout link to logout and return to original public home pages with links of signup and login.
 
 ### Source Code
 You can find the source code of the Demo Application at:
